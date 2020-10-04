@@ -1,0 +1,1 @@
+{"ast":null,"code":"import FadeIn from \"./FadeIn\";\nexport default FadeIn;","map":{"version":3,"sources":["C:/Users/codemaxx/Desktop/iBlood/node_modules/react-native-fade-in-image/index.js"],"names":["FadeIn"],"mappings":"AAAA,OAAOA,MAAP;AACA,eAAeA,MAAf","sourcesContent":["import FadeIn from './FadeIn';\r\nexport default FadeIn;\r\n"]},"metadata":{},"sourceType":"module"}
