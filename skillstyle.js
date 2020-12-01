@@ -19,7 +19,7 @@ const styles1 = StyleSheet.create({
     borderColor: "white",
     borderRadius: 7,
     borderWidth: 2,
-    outlineWidth: 0,
+    // outlineWidth: 0,
   },
 
   textInput: {

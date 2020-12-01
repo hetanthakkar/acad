@@ -50,7 +50,7 @@ const myFields = ({
           borderColor: "#0984e3",
           borderRadius: 12,
           borderWidth: 2,
-          outlineWidth: 0,
+          // outlineWidth: 0,
           backgroundColor: "white",
         }}
         maxLength={20}
@@ -82,7 +82,7 @@ const myFields1 = ({
           borderColor: "#0984e3",
           borderRadius: 12,
           borderWidth: 2,
-          outlineWidth: 0,
+          // outlineWidth: 0,
           backgroundColor: "white",
         }}
         maxLength={20}

@@ -628,7 +628,7 @@ export default class AddSkill extends Component {
           placeholderTextColor="black"
           style={{
             backgroundColor: "#F5F5F5",
-            outlineWidth: 0,
+            // outlineWidth: 0,
             borderWidth: 1,
             borderColor: "black",
             borderRadius: 12,
